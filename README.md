@@ -12,12 +12,12 @@ A slightly more complex project which scrapes data from IMDB's top 250 list of m
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11 22H2</b> (Monterey)
+- <b>Windows 11 22H2</b>
 
 <h2>Program output:</h2>
 
 <p align="center">
-Demo of game in action (Note: not all rounds shown, hence reason for seemingly incorrect wins tally)<br/>
+Screen shot of output<br/>
 <img src="https://i.imgur.com/AM0eXbX.png"/>
 <br />
 
