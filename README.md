@@ -1,4 +1,4 @@
-# Web-scraper-with-output-to-CSV
+# Web scraper with output to CSV
 
 <h2>Description</h2>
 A slightly more complex project which scrapes data from IMDB's top 250 list of movies and outputs the useful data to a csv file. String manipulation used. 
